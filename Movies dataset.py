@@ -26,8 +26,8 @@ import timeit
 from boto3.dynamodb.conditions import Key, Attr
 import time
 
-AWS_ACCESS = "AKIAUKDQZVUI2NMDVSXR"
-AWS_SECRET = "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"
+AWS_ACCESS = "************"
+AWS_SECRET = "******************"
 AWS_REGION = "us-east-2"
 TABLE_NAME = "books"
 
